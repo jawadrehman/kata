@@ -30,7 +30,7 @@ public class HanoiMoves {
 			}
 
 			else {
-				for (int i = 0; i < pegList.get(t).getSize() && pegList.get(); i++) {
+//				for (int i = 0; i < pegList.get(t).getSize() && pegList.get(); i++) {
 					Disk diskTemp = pegList.get(t).remove();
 					
 //					tempMove.push(diskTemp);
